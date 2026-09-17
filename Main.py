@@ -10,3 +10,6 @@ print ("AJA")
 print(listarTareas[0].estado)
 print("hola mariano!adasdsad")
 >>>>>>> 8ce53747d8df3ac6ab883a5afc855e68b50b27a5
+
+
+print("hola mariano!adasdsad")
